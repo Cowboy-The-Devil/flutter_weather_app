@@ -20,9 +20,6 @@ It shows the current temperature, weather condition, and 5-day forecast using a 
 3. Use your own OpenWeather API key in `secrets.dart`
 4. Run `flutter run`
 
-## 📸 Screenshot
-(Add your screenshot here if you have one)
 
----
 
 ⭐ Don’t forget to give it a star if you like it!
