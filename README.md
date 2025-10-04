@@ -5,7 +5,6 @@ It shows the current temperature, weather condition, and 5-day forecast using a 
 
 ## 🛠️ Features
 - Current weather by location
-- 5-day forecast
 - Clean and minimal UI
 - Refresh button for live updates
 
